@@ -17,7 +17,7 @@ Este proyecto resuelve un desafío de análisis de datos planteado por la plataf
 
 ##  Herramientas y tecnologías
 
-- [Python](https://www.python.org/) 🐍
+- [Python](https://www.python.org/) 
 - [Pandas](https://pandas.pydata.org/) para análisis de datos
 - [Matplotlib](https://matplotlib.org/) y [Seaborn](https://seaborn.pydata.org/) para visualizaciones
 - [Google Colab](https://colab.research.google.com/) como entorno de desarrollo
@@ -38,8 +38,8 @@ Este proyecto resuelve un desafío de análisis de datos planteado por la plataf
 1. **Ingresos totales por tienda**
 2. **Cantidad de productos vendidos por categoría**
 3. **Calificaciones promedio de clientes**
-4. **Top y bottom 5 productos por tienda**
-5. **Distribución de ventas por categoría consolidada**
+4. **Productos más y menos vendidos poor tienda**
+5. **Costo de Envío Promedio por tienda**
 6. *(Próximos pasos: envío promedio, método de pago, cuotas)*
 
 ---
@@ -63,6 +63,4 @@ Este proyecto fue desarrollado como parte del programa de formación en análisi
 
 ## 🎯 Estado del proyecto
 
-✅ En desarrollo  
-⬜ Recomendación final pendiente  
-⬜ Presentación final/documento resumen pendiente
+Concluido.
